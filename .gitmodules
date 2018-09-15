@@ -1,0 +1,15 @@
+[submodule "Dependencies"]
+	path = Dependencies
+	url = https://github.com/jpd002/Play-Dependencies
+[submodule "Framework"]
+	path = Framework
+	url = https://github.com/jpd002/Play--Framework.git
+[submodule "CodeGen"]
+	path = CodeGen
+	url = https://github.com/jpd002/Play--CodeGen.git
+[submodule "Play"]
+	path = Play
+	url = https://github.com/jpd002/Play-.git
+[submodule "Nuanceur"]
+	path = Nuanceur
+	url = https://github.com/jpd002/Nuanceur.git
